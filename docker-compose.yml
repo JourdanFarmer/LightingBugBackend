@@ -1,0 +1,6 @@
+﻿services:
+  lightingbugbackend:
+    image: lightingbugbackend
+    build:
+      context: .
+      dockerfile: Dockerfile

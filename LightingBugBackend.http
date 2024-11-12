@@ -1,0 +1,6 @@
+@LightingBugBackend_HostAddress = http://localhost:5226
+
+GET {{LightingBugBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
