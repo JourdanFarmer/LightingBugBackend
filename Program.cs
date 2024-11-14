@@ -1,3 +1,6 @@
+using LightingBugBackend.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,15 +12,19 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod()
             .AllowAnyHeader()
             .AllowCredentials();
+        
     });
 });
 
-// Add controller services
 builder.Services.AddControllers();
 
 // Add Swagger services
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Add in-memory database services
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseInMemoryDatabase("ProductsDb"));
 
 var app = builder.Build();
 
@@ -37,8 +44,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-        // Optionally, serve Swagger UI at the application's root:
-        c.RoutePrefix = string.Empty; // This makes Swagger UI served at the app's root URL
+
+        c.RoutePrefix = string.Empty;
     });
 }
 

@@ -33,3 +33,15 @@
 /Users/jourdanfarmer/RiderProjects/LightingBugBackend/obj/Debug/net8.0/LightingBugBackend.genruntimeconfig.cache
 /Users/jourdanfarmer/RiderProjects/LightingBugBackend/obj/Debug/net8.0/ref/LightingBugBackend.dll
 /Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/LightingBugBackend.staticwebassets.runtime.json
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
