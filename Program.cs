@@ -8,11 +8,10 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", builder =>
     {
-        builder.WithOrigins("http://localhost:3000")
+        builder.WithOrigins("http://localhost:3000", "http://192.168.1.235:3000")
             .AllowAnyMethod()
             .AllowAnyHeader()
             .AllowCredentials();
-        
     });
 });
 
@@ -44,7 +43,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-
         c.RoutePrefix = string.Empty;
     });
 }

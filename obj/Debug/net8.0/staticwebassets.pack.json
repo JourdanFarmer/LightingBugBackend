@@ -9,12 +9,24 @@
       "PackagePath": "staticwebassets/images/image2.jpg"
     },
     {
+      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image2.png",
+      "PackagePath": "staticwebassets/images/image2.png"
+    },
+    {
       "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.jpg",
       "PackagePath": "staticwebassets/images/image3.jpg"
     },
     {
+      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.png",
+      "PackagePath": "staticwebassets/images/image3.png"
+    },
+    {
       "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.jpg",
       "PackagePath": "staticwebassets/images/image4.jpg"
+    },
+    {
+      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.png",
+      "PackagePath": "staticwebassets/images/image4.png"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.LightingBugBackend.Microsoft.AspNetCore.StaticWebAssets.props",

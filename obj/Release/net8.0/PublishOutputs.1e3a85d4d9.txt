@@ -1,0 +1,12 @@
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/LightingBugBackend
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/appsettings.json
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/LightingBugBackend.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/LightingBugBackend.deps.json
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/LightingBugBackend.runtimeconfig.json
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/LightingBugBackend.pdb
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jourdanfarmer/RiderProjects/LightingBugBackend/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
