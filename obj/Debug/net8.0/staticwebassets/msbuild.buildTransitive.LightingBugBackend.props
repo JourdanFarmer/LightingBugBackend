@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/LightingBugBackend.props" />
+  <Import Project="..\buildMultiTargeting\LightingBugBackend.props" />
 </Project>

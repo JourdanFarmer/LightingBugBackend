@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightingBugBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7be6835f7c935fe6232c42a5b2e8b4527951dc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae52998bb519f8f21b0fc885dd02b47698025ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightingBugBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightingBugBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

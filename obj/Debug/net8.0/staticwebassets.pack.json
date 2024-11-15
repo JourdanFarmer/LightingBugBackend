@@ -1,47 +1,35 @@
 {
   "Files": [
     {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image1.png",
-      "PackagePath": "staticwebassets/images/image1.png"
+      "Id": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
     },
     {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image2.jpg",
-      "PackagePath": "staticwebassets/images/image2.jpg"
+      "Id": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
     },
     {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image2.png",
-      "PackagePath": "staticwebassets/images/image2.png"
+      "Id": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image3.png",
+      "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.jpg",
-      "PackagePath": "staticwebassets/images/image3.jpg"
+      "Id": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image4.png",
+      "PackagePath": "staticwebassets\\images\\image4.png"
     },
     {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.png",
-      "PackagePath": "staticwebassets/images/image3.png"
-    },
-    {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.jpg",
-      "PackagePath": "staticwebassets/images/image4.jpg"
-    },
-    {
-      "Id": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.png",
-      "PackagePath": "staticwebassets/images/image4.png"
-    },
-    {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.LightingBugBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LightingBugBackend.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.LightingBugBackend.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LightingBugBackend.props",
       "PackagePath": "build\\LightingBugBackend.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LightingBugBackend.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LightingBugBackend.props",
       "PackagePath": "buildMultiTargeting\\LightingBugBackend.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LightingBugBackend.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LightingBugBackend.props",
       "PackagePath": "buildTransitive\\LightingBugBackend.props"
     }
   ],

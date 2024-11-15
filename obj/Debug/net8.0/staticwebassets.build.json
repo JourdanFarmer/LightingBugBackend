@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ku3Vnv8suc3+FgvHMPas+YQc5pVCJ05QZabozAnKWSo=",
+  "Hash": "p40aqaVferYb9wFoOIh4IbB4Ljd1OZ5D2M3uv4DHuYw=",
   "Source": "LightingBugBackend",
   "BasePath": "_content/LightingBugBackend",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "LightingBugBackend/wwwroot",
+      "Name": "LightingBugBackend\\wwwroot",
       "Source": "LightingBugBackend",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
+      "ContentRoot": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\",
       "BasePath": "_content/LightingBugBackend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image1.png",
+      "Identity": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image1.png",
       "SourceId": "LightingBugBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
+      "ContentRoot": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\",
       "BasePath": "_content/LightingBugBackend",
       "RelativePath": "images/image1.png",
       "AssetKind": "All",
@@ -33,32 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image1.png"
+      "OriginalItemSpec": "wwwroot\\images\\image1.png"
     },
     {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image2.jpg",
+      "Identity": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image2.png",
       "SourceId": "LightingBugBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
-      "BasePath": "_content/LightingBugBackend",
-      "RelativePath": "images/image2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image2.jpg"
-    },
-    {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image2.png",
-      "SourceId": "LightingBugBackend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
+      "ContentRoot": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\",
       "BasePath": "_content/LightingBugBackend",
       "RelativePath": "images/image2.png",
       "AssetKind": "All",
@@ -71,32 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image2.png"
+      "OriginalItemSpec": "wwwroot\\images\\image2.png"
     },
     {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.jpg",
+      "Identity": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image3.png",
       "SourceId": "LightingBugBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
-      "BasePath": "_content/LightingBugBackend",
-      "RelativePath": "images/image3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image3.jpg"
-    },
-    {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image3.png",
-      "SourceId": "LightingBugBackend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
+      "ContentRoot": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\",
       "BasePath": "_content/LightingBugBackend",
       "RelativePath": "images/image3.png",
       "AssetKind": "All",
@@ -109,32 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image3.png"
+      "OriginalItemSpec": "wwwroot\\images\\image3.png"
     },
     {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.jpg",
+      "Identity": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\images\\image4.png",
       "SourceId": "LightingBugBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
-      "BasePath": "_content/LightingBugBackend",
-      "RelativePath": "images/image4.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image4.jpg"
-    },
-    {
-      "Identity": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/images/image4.png",
-      "SourceId": "LightingBugBackend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/jourdanfarmer/RiderProjects/LightingBugBackend/wwwroot/",
+      "ContentRoot": "C:\\Users\\jourd\\RiderProjects\\LightingBugBackend\\wwwroot\\",
       "BasePath": "_content/LightingBugBackend",
       "RelativePath": "images/image4.png",
       "AssetKind": "All",
@@ -147,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/image4.png"
+      "OriginalItemSpec": "wwwroot\\images\\image4.png"
     }
   ]
 }
